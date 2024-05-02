@@ -115,7 +115,7 @@ function App() {
         Tooltip
         .style("opacity", 0)
         d3.select(this)
-        .style("storke", "none")
+        .style("stroke", "none")
         .style("opacity", 0.8)
       }
 
