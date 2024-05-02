@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/d3-scatterplot/static/css/main.9297d5ff.css",
-    "main.js": "/d3-scatterplot/static/js/main.885fd4a6.js",
+    "main.js": "/d3-scatterplot/static/js/main.df2957d2.js",
     "static/js/453.5ec32c7a.chunk.js": "/d3-scatterplot/static/js/453.5ec32c7a.chunk.js",
     "index.html": "/d3-scatterplot/index.html",
     "main.9297d5ff.css.map": "/d3-scatterplot/static/css/main.9297d5ff.css.map",
-    "main.885fd4a6.js.map": "/d3-scatterplot/static/js/main.885fd4a6.js.map",
+    "main.df2957d2.js.map": "/d3-scatterplot/static/js/main.df2957d2.js.map",
     "453.5ec32c7a.chunk.js.map": "/d3-scatterplot/static/js/453.5ec32c7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9297d5ff.css",
-    "static/js/main.885fd4a6.js"
+    "static/js/main.df2957d2.js"
   ]
 }
